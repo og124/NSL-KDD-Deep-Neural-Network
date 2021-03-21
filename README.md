@@ -1,2 +1,4 @@
-# NSL-KDD-Deep-Neural-Network
-Un-tuned and foundational DNN model for the NSL-KDD Intrusion Detection Dataset.
+# NSL-KDD Deep Neural Network
+
+Store for the NSL-KDD Network Intrusion Detection Dataset and a basic Deep Learning Neural Network model using Keras.
+By no means a finished product + very much un-tuned/benchmarked hyper-parameters.
